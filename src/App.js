@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import Formulario from './Components/Formulario/Formulario';
-import { Primeiro } from './Components/PrimeiroO/Primeiro';
+import { Primeiro } from './Components/Primeiro/Primeiro';
 
 import Time from './Components/Time/Time'
 
